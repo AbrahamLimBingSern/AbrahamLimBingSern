@@ -6,7 +6,7 @@ Hi there, I'm Abraham Lim Bing Sern and you can call me Abraham 😆😆
 - Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
 - Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
 
-  
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 <!--
 **AbrahamLimBingSern/AbrahamLimBingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
