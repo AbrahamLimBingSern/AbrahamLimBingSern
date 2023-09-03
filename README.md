@@ -1,5 +1,7 @@
 ### 你好/Hello/こんにちは/¡Hola!👋
 
+Hi there, I'm Abraham Lim Bing Sern and you can call me Abraham 😆😆
+
 About me
 - Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
 - Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
