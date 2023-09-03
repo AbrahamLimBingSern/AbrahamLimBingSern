@@ -1,6 +1,11 @@
 ### 你好/Hello/こんにちは/¡Hola!👋
-k
-<!--kk
+
+About me
+- Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
+- Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
+
+  
+<!--
 **AbrahamLimBingSern/AbrahamLimBingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
