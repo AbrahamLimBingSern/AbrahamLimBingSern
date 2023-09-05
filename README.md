@@ -7,7 +7,7 @@ Hi there, I'm Abraham Lim Bing Sern and you can call me Abraham 😆😆
 - 🔭 Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
 
 <a href="www.linkedin.com/in/abrahamlim">
-  <img height="25" src="https://www.iconfinder.com/icons/317725/linkedin_social_icon"/>
+  <img height="25" src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/317725_linkedin_social_icon.png"/>
 </a>
 
 <!--
