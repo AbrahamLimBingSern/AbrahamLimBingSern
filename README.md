@@ -10,7 +10,7 @@
 
 ![3536505](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/effe8bc4-41e3-4a50-9138-7e36f471002a)[1]
 
-[1]: www.linkedin.com/in/abrahamlim
+[1]: https://www.linkedin.com/in/abrahamlim
 [2]: https://www.linkedin.com/in/your_contact_info
 [3]: https://www.facebook.com/your_contact_info
 
