@@ -8,7 +8,7 @@
 - 🌱 Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
 - 🔭 Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
 ---
-[![linkedin](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5)][1][![43256817-e40da78a-90c5-11e8-9c84-9471549a1259](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83)][2]
+[![linkedin](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5 =50x50)][1][![43256817-e40da78a-90c5-11e8-9c84-9471549a1259](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83 =50x50)][2]
 ---
 [1]: https://www.linkedin.com/in/abrahamlim
 [2]: https://public.tableau.com/app/profile/abraham.lim
