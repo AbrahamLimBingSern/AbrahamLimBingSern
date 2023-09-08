@@ -3,8 +3,7 @@
 ### Hi there, I'm Abraham Lim Bing Sern and you can call me Abraham 😆😆
 <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/223190be-141a-4057-aa99-c42a49e3cbf2" width="850" height="350">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamLimBingSern&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamLimBingSern&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamLimBingSern&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
 
 ### 🌐 Social
 
