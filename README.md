@@ -8,11 +8,10 @@
 - 🌱 Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
 - 🔭 Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
 
-[![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+[![linkedin](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5)][1][![43256817-e40da78a-90c5-11e8-9c84-9471549a1259](https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83)][2]
 
 [1]: https://www.linkedin.com/in/abrahamlim
-[2]: https://www.linkedin.com/in/your_contact_info
-[3]: https://www.facebook.com/your_contact_info
+[2]: https://www.linkedin.com/in/your_contact_info](https://public.tableau.com/app/profile/abraham.lim
 
 <!--
 **AbrahamLimBingSern/AbrahamLimBingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
