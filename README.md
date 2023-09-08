@@ -15,6 +15,10 @@
 
 
 
+## Programming Languages (Order by Proficiency)
+https://camo.githubusercontent.com/4bc5772c9e98580943ce8e74bab7bcd1fbb31f2beeba03096e83a38bd13cfbd3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d4343323932373f6c6f676f3d53514c697465266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765
+
+
 [1]: https://www.linkedin.com/in/abrahamlim
 [2]: https://public.tableau.com/app/profile/abraham.lim
 
