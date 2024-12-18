@@ -25,6 +25,12 @@
 - 🌱 Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
 - 🔭 Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
 
+<style>
+    a:hover {
+    background: lighten(#0077b5, 10%);
+}
+</style>
+
 <!--
 **AbrahamLimBingSern/AbrahamLimBingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
