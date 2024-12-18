@@ -15,7 +15,7 @@
         <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83" width="40" height="40" alt="Tableau">
     </a>
     <a href="https://abrahamlimresume.netlify.app" style="text-align: center;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/global-symbol-of-black-circle-with-grid.png" width="40" height="40" alt="Website">
+        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/pngfind.com-hover-icon-png-4333068.png" width="40" height="40" alt="Website">
     </a>
 </div>
 
