@@ -19,8 +19,8 @@
 
 ### About me
 - 🌱 Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
-- 🔭 Entry-Level Google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
-
+- 🔭 Entry-level Google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
+- 😄 Currently advancing technical skills through independent web development and design study, emphasizing HTML, CSS, and JavaScript.
 
 <!--
 **AbrahamLimBingSern/AbrahamLimBingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
