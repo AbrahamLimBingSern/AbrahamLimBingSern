@@ -7,29 +7,23 @@
 
 ### 🌐 Social
 
-### 🌐 Social
-
-<div style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/abrahamlim" style="background: #0077b5; padding: 10px; border-radius: 10px; display: inline-block;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5" width="50" height="50">
+<div style="display: flex; gap: 20px; align-items: center;">
+    <a href="https://www.linkedin.com/in/abrahamlim" style="background: #0077b5; padding: 15px; border-radius: 10px; display: inline-block; text-align: center;">
+        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5" width="40" height="40" alt="LinkedIn">
     </a>
-    <a href="https://public.tableau.com/app/profile/abraham.lim" style="background: #4e79a7; padding: 10px; border-radius: 10px; display: inline-block;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83" width="50" height="50">
+    <a href="https://public.tableau.com/app/profile/abraham.lim" style="background: #4e79a7; padding: 15px; border-radius: 10px; display: inline-block; text-align: center;">
+        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83" width="40" height="40" alt="Tableau">
     </a>
-    <a href="https://abrahamlimresume.netlify.app" style="background: #333; padding: 10px; border-radius: 10px; display: inline-block;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/global-symbol-of-black-circle-with-grid.png" width="50" height="50" style="filter: invert(1);">
+    <a href="https://abrahamlimresume.netlify.app" style="background: #333; padding: 15px; border-radius: 10px; display: inline-block; text-align: center;">
+        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/global-symbol-of-black-circle-with-grid.png" width="40" height="40" alt="Website" style="filter: invert(1);">
     </a>
 </div>
 
+
 ### About me
 - 🌱 Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
-- 🔭 Entry-Level google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
+- 🔭 Entry-Level Google certified data analytic professional; recently completed the Google Data Analytics Professional certificate and Data Visualization with Tableau.
 
-<style>
-    a:hover {
-    background: lighten(#0077b5, 10%);
-}
-</style>
 
 <!--
 **AbrahamLimBingSern/AbrahamLimBingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
