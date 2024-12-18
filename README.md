@@ -7,18 +7,15 @@
 
 ### 🌐 Social
 
-<div style="display: flex; gap: 20px; align-items: center;">
-    <a href="https://www.linkedin.com/in/abrahamlim" style="text-align: center;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5" width="40" height="40" alt="LinkedIn">
-    </a>
-    <a href="https://public.tableau.com/app/profile/abraham.lim" style="text-align: center;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83" width="40" height="40" alt="Tableau">
-    </a>
-    <a href="https://abrahamlimresume.netlify.app" style="text-align: center;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/pngfind.com-hover-icon-png-4333068.png" width="40" height="40" alt="Website">
-    </a>
-</div>
-
+<a href="https://www.linkedin.com/in/abrahamlim" style="text-align: center;">
+    <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5" width="40" height="40" alt="LinkedIn">
+</a>
+<a href="https://public.tableau.com/app/profile/abraham.lim" style="text-align: center;">
+    <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83" width="40" height="40" alt="Tableau">
+</a>
+<a href="https://abrahamlimresume.netlify.app" style="text-align: center;">
+    <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/pngfind.com-hover-icon-png-4333068.png" width="40" height="40" alt="Personal Website">
+</a>
 
 ### About me
 - 🌱 Data Analytics student in Universiti Malaysia Pahang Al-Sultan Abdullah
