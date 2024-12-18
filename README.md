@@ -8,14 +8,14 @@
 ### 🌐 Social
 
 <div style="display: flex; gap: 20px; align-items: center;">
-    <a href="https://www.linkedin.com/in/abrahamlim" style="background: #0077b5; padding: 15px; border-radius: 10px; display: inline-block; text-align: center;">
+    <a href="https://www.linkedin.com/in/abrahamlim" style="text-align: center;">
         <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5" width="40" height="40" alt="LinkedIn">
     </a>
-    <a href="https://public.tableau.com/app/profile/abraham.lim" style="background: #4e79a7; padding: 15px; border-radius: 10px; display: inline-block; text-align: center;">
+    <a href="https://public.tableau.com/app/profile/abraham.lim" style="text-align: center;">
         <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83" width="40" height="40" alt="Tableau">
     </a>
-    <a href="https://abrahamlimresume.netlify.app" style="background: #333; padding: 15px; border-radius: 10px; display: inline-block; text-align: center;">
-        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/global-symbol-of-black-circle-with-grid.png" width="40" height="40" alt="Website" style="filter: invert(1);">
+    <a href="https://abrahamlimresume.netlify.app" style="text-align: center;">
+        <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/global-symbol-of-black-circle-with-grid.png" width="40" height="40" alt="Website">
     </a>
 </div>
 
