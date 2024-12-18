@@ -9,6 +9,7 @@
 
 [<img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/a42ce2c5-9865-4675-a72e-3587ab9395a5" width="50" height="50">][1]
 [<img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/d1d5df27-bc4d-4a2a-b566-7eb2609b4a83" width="50" height="50">][2]
+[<img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/blob/main/global-symbol-of-black-circle-with-grid.png" width="50" height="50">][3]
 -
 
 ### About me
@@ -17,6 +18,7 @@
 
 [1]: https://www.linkedin.com/in/abrahamlim
 [2]: https://public.tableau.com/app/profile/abraham.lim
+[3]: https://abrahamlimresume.netlify.app
 
 <!--
 **AbrahamLimBingSern/AbrahamLimBingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
