@@ -2,7 +2,6 @@
 
 ### Hi there, I'm Abraham Lim Bing Sern and you can call me Abraham 😆😆
 <img src="https://github.com/AbrahamLimBingSern/AbrahamLimBingSern/assets/139485622/223190be-141a-4057-aa99-c42a49e3cbf2" width="850" height="350">
-<div class="tenor-gif-embed" data-postid="26992776" data-share-method="host" data-aspect-ratio="1.31148" data-width="100%"><a href="https://tenor.com/view/elysia-gif-26992776">Elysia GIF</a>from <a href="https://tenor.com/search/elysia-gifs">Elysia GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbrahamLimBingSern&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbrahamLimBingSern&layout=compact)
 
